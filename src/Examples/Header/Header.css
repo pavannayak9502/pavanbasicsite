@@ -1,0 +1,45 @@
+.header{
+    box-sizing: border-box;
+    background-color: black;
+    color:white;
+    text-align: center;
+    height: 45px;
+
+}
+
+h1{
+    float: left;
+    font-size: small;
+}
+
+header nav ul{
+    list-style: none;
+    padding:0px;
+}
+
+header nav ul li a{
+    display: inline;
+    margin: 0px 15px;
+}
+
+header nav ul li a{
+    color:white;
+    text-decoration: none;
+}
+header nav li a{
+    float: right;
+    padding: 5px;
+    text-align: center;
+}
+li a:hover{
+    background-color: green;
+    cursor: pointer;
+}
+
+#Formain{
+    color: whitesmoke;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: bold;
+}

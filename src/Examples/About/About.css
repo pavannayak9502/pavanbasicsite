@@ -1,0 +1,29 @@
+.about{
+    margin-top: 15px;
+    padding: 2rem;
+    background-color: bisque;
+    box-sizing: border-box;
+    height: 400px;
+}
+code{
+    font-family:monospace;
+    font-size: large;
+    float: left;
+}
+h2{
+    color: red;
+    font-size: x-large;
+
+}
+img{
+    width:15%;
+    height: 10%;
+    border: none;
+    float: left;
+    border-radius: 50%;
+}
+p{
+    color: orange;
+    font-weight: bold;
+    font-family: cursive;
+}

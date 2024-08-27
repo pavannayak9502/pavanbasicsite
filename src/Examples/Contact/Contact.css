@@ -1,0 +1,37 @@
+.contact{
+    padding: 2rem;
+}
+h3{
+    color:red;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+label{
+    margin: 0.5rem 0px;
+}
+
+input, textarea{
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+}
+
+input[type="text"], input[type="email"], textarea{
+    border-radius: 10px;
+    padding: 5px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    padding: 10px;
+}
+button:hover{
+    background-color: green;
+    cursor: pointer;
+}

@@ -1,0 +1,32 @@
+.header{
+    background-color: black;
+    color:white;
+    padding: 16px;
+    text-align: center;
+    height: 50px;
+}
+
+h1{
+    float: left;
+}
+
+header nav ul{
+    list-style: none;
+    padding: 0px;
+}
+
+header nav ul li{
+    float: right;
+    display: inline;
+    margin: 0px 10px; /*top,botton=0px  left,right=10px  */
+}
+
+header nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+
+li a:hover{
+    background-color: red;
+}

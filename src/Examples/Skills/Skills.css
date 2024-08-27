@@ -1,0 +1,28 @@
+.skills{
+    padding: 2rem;
+}
+
+.skills-item{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.skills-list{
+    text-align: center;
+    flex: 1 1 12.5%;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 1rem;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+
+}
+
+.skills-list:hover{
+    flex: 20 50 15%;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    transition: 1s;
+}
