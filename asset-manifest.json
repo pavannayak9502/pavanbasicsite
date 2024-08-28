@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BasicPort/static/css/main.3fea8060.css",
-    "main.js": "/BasicPort/static/js/main.f830bea7.js",
-    "static/js/453.978c7d90.chunk.js": "/BasicPort/static/js/453.978c7d90.chunk.js",
-    "index.html": "/BasicPort/index.html",
-    "main.3fea8060.css.map": "/BasicPort/static/css/main.3fea8060.css.map",
-    "main.f830bea7.js.map": "/BasicPort/static/js/main.f830bea7.js.map",
-    "453.978c7d90.chunk.js.map": "/BasicPort/static/js/453.978c7d90.chunk.js.map"
+    "main.css": "/pavanbasicsite/static/css/main.3fea8060.css",
+    "main.js": "/pavanbasicsite/static/js/main.768ab311.js",
+    "static/js/453.978c7d90.chunk.js": "/pavanbasicsite/static/js/453.978c7d90.chunk.js",
+    "index.html": "/pavanbasicsite/index.html",
+    "main.3fea8060.css.map": "/pavanbasicsite/static/css/main.3fea8060.css.map",
+    "main.768ab311.js.map": "/pavanbasicsite/static/js/main.768ab311.js.map",
+    "453.978c7d90.chunk.js.map": "/pavanbasicsite/static/js/453.978c7d90.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fea8060.css",
-    "static/js/main.f830bea7.js"
+    "static/js/main.768ab311.js"
   ]
 }
