@@ -1,15 +1,26 @@
 {
   "files": {
-    "main.css": "/pavanbasicsite/static/css/main.3fea8060.css",
-    "main.js": "/pavanbasicsite/static/js/main.768ab311.js",
-    "static/js/453.978c7d90.chunk.js": "/pavanbasicsite/static/js/453.978c7d90.chunk.js",
-    "index.html": "/pavanbasicsite/index.html",
-    "main.3fea8060.css.map": "/pavanbasicsite/static/css/main.3fea8060.css.map",
-    "main.768ab311.js.map": "/pavanbasicsite/static/js/main.768ab311.js.map",
-    "453.978c7d90.chunk.js.map": "/pavanbasicsite/static/js/453.978c7d90.chunk.js.map"
+    "main.css": "/latestPavanPortfolio/static/css/main.ba633855.css",
+    "main.js": "/latestPavanPortfolio/static/js/main.65b4606e.js",
+    "static/js/453.66c7bbcf.chunk.js": "/latestPavanPortfolio/static/js/453.66c7bbcf.chunk.js",
+    "static/media/image.png": "/latestPavanPortfolio/static/media/image.11ef05a8566ff6af76ab.png",
+    "static/media/Weather.gif": "/latestPavanPortfolio/static/media/Weather.e693bbf62ba4ffaecb63.gif",
+    "static/media/ResumeImage.jpeg": "/latestPavanPortfolio/static/media/ResumeImage.c0f0fad651bc011bb0dc.jpeg",
+    "static/media/typingGif.gif": "/latestPavanPortfolio/static/media/typingGif.212a22ad1411870fe130.gif",
+    "static/media/demoImage.png": "/latestPavanPortfolio/static/media/demoImage.bfe49b802e6d82151467.png",
+    "static/media/Resumes.pdf": "/latestPavanPortfolio/static/media/Resumes.4ba4efc9e223d492caef.pdf",
+    "static/media/CreditValidation.gif": "/latestPavanPortfolio/static/media/CreditValidation.142ca8bdf1a23a35aaef.gif",
+    "static/media/SmileGif.gif": "/latestPavanPortfolio/static/media/SmileGif.f361f294cee64d3d6ba1.gif",
+    "static/media/Jokes.gif": "/latestPavanPortfolio/static/media/Jokes.00a54627566174ec571f.gif",
+    "static/media/Todo.gif": "/latestPavanPortfolio/static/media/Todo.acbe793f74e864e31bd3.gif",
+    "static/media/NewParticles.webp": "/latestPavanPortfolio/static/media/NewParticles.de1f98e81edf1419f461.webp",
+    "index.html": "/latestPavanPortfolio/index.html",
+    "main.ba633855.css.map": "/latestPavanPortfolio/static/css/main.ba633855.css.map",
+    "main.65b4606e.js.map": "/latestPavanPortfolio/static/js/main.65b4606e.js.map",
+    "453.66c7bbcf.chunk.js.map": "/latestPavanPortfolio/static/js/453.66c7bbcf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fea8060.css",
-    "static/js/main.768ab311.js"
+    "static/css/main.ba633855.css",
+    "static/js/main.65b4606e.js"
   ]
 }
